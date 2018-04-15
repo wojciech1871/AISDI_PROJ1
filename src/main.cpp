@@ -1,3 +1,10 @@
+/*
+ * Wojciech Celej
+ * 271248
+ * AISDI
+ * Projekt 1 - Liniowe
+*/
+
 #include <iostream>
 #include <iomanip>
 #include <cstddef>

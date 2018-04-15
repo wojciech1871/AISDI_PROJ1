@@ -1,3 +1,10 @@
+/*
+ * Wojciech Celej
+ * 271248
+ * AISDI
+ * Projekt 1 - Liniowe
+*/
+
 #ifndef AISDI_LINEAR_VECTOR_H
 #define AISDI_LINEAR_VECTOR_H
 
