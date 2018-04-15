@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="AISDI_Linear" targetName="ExperimentalCoverage" />
+      <config projectName="AISDI_Linear" targetName="NightlyMemoryCheck" />
+      <config projectName="AISDI_Linear" targetName="ContinuousTest" />
+      <config projectName="AISDI_Linear" targetName="ExperimentalMemCheck" />
+      <config projectName="AISDI_Linear" targetName="Nightly" />
+      <config projectName="AISDI_Linear" targetName="Experimental" />
+      <config projectName="AISDI_Linear" targetName="ContinuousConfigure" />
+      <config projectName="AISDI_Linear" targetName="NightlyBuild" />
+      <config projectName="AISDI_Linear" targetName="check" />
+      <config projectName="AISDI_Linear" targetName="aisdiLinear" />
+      <config projectName="AISDI_Linear" targetName="NightlyCoverage" />
+      <config projectName="AISDI_Linear" targetName="NightlyMemCheck" />
+      <config projectName="AISDI_Linear" targetName="ExperimentalStart" />
+      <config projectName="AISDI_Linear" targetName="ContinuousUpdate" />
+      <config projectName="AISDI_Linear" targetName="ExperimentalBuild" />
+      <config projectName="AISDI_Linear" targetName="NightlyTest" />
+      <config projectName="AISDI_Linear" targetName="ContinuousBuild" />
+      <config projectName="AISDI_Linear" targetName="ExperimentalSubmit" />
+      <config projectName="AISDI_Linear" targetName="ContinuousCoverage" />
+      <config projectName="AISDI_Linear" targetName="NightlySubmit" />
+      <config projectName="AISDI_Linear" targetName="aisdiLinearTests" />
+      <config projectName="AISDI_Linear" targetName="ContinuousStart" />
+      <config projectName="AISDI_Linear" targetName="Continuous" />
+      <config projectName="AISDI_Linear" targetName="NightlyConfigure" />
+      <config projectName="AISDI_Linear" targetName="ContinuousSubmit" />
+      <config projectName="AISDI_Linear" targetName="ExperimentalTest" />
+      <config projectName="AISDI_Linear" targetName="ExperimentalUpdate" />
+      <config projectName="AISDI_Linear" targetName="NightlyStart" />
+      <config projectName="AISDI_Linear" targetName="ContinuousMemCheck" />
+      <config projectName="AISDI_Linear" targetName="ExperimentalConfigure" />
+      <config projectName="AISDI_Linear" targetName="NightlyUpdate" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21b1d4a5-2082-4682-8694-940d80bcdd69" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-release/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>thenDestroyedObjectsCountWas</find>
+      <find>GivenNonEmptyCollection_WhenCreatingCopy_ThenAllItemsAreCopied</find>
+      <find>popFirst</find>
+      <find>GivenNonEmptyCollection_WhenPoppingFirst_ThenItemIsRemoved</find>
+      <find>GivenNonEmptyCollection_WhenAssigningToOther_ThenAllElementsAreCopied</find>
+      <find>GivenNonEmptyCollection_WhenMoveAssigning_ThenAllElementsAreMoved</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LinkedList.h" />
+        <option value="$PROJECT_DIR$/tests/LinkedListTests.cpp" />
+        <option value="$PROJECT_DIR$/tests/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/Vector.h" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/tests/VectorTests.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AISDI_Linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Liniowe" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.aisdiLinearTests">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="Continuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="Continuous" CONFIG_NAME="Debug" />
+    <configuration name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ContinuousBuild" />
+    <configuration name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ContinuousConfigure" />
+    <configuration name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ContinuousCoverage" />
+    <configuration name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ContinuousMemCheck" />
+    <configuration name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ContinuousStart" />
+    <configuration name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ContinuousSubmit" />
+    <configuration name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ContinuousTest" />
+    <configuration name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ContinuousUpdate" />
+    <configuration name="Experimental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="Experimental" CONFIG_NAME="Debug" />
+    <configuration name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ExperimentalBuild" />
+    <configuration name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ExperimentalConfigure" />
+    <configuration name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ExperimentalCoverage" />
+    <configuration name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ExperimentalMemCheck" />
+    <configuration name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ExperimentalStart" />
+    <configuration name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ExperimentalSubmit" />
+    <configuration name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ExperimentalTest" />
+    <configuration name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="ExperimentalUpdate" />
+    <configuration name="Nightly" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="Nightly" CONFIG_NAME="Debug" />
+    <configuration name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlyBuild" />
+    <configuration name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlyConfigure" />
+    <configuration name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlyCoverage" />
+    <configuration name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlyMemCheck" />
+    <configuration name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlyMemoryCheck" />
+    <configuration name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlyStart" />
+    <configuration name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlySubmit" />
+    <configuration name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlyTest" />
+    <configuration name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="NightlyUpdate" />
+    <configuration name="aisdiLinear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="aisdiLinear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="aisdiLinear" />
+    <configuration name="aisdiLinearTests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="aisdiLinearTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AISDI_Linear" RUN_TARGET_NAME="aisdiLinearTests" />
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AISDI_Linear" TARGET_NAME="check" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Continuous" />
+      <item itemvalue="Application.ContinuousBuild" />
+      <item itemvalue="Application.ContinuousConfigure" />
+      <item itemvalue="Application.ContinuousCoverage" />
+      <item itemvalue="Application.ContinuousMemCheck" />
+      <item itemvalue="Application.ContinuousStart" />
+      <item itemvalue="Application.ContinuousSubmit" />
+      <item itemvalue="Application.ContinuousTest" />
+      <item itemvalue="Application.ContinuousUpdate" />
+      <item itemvalue="Application.Experimental" />
+      <item itemvalue="Application.ExperimentalBuild" />
+      <item itemvalue="Application.ExperimentalConfigure" />
+      <item itemvalue="Application.ExperimentalCoverage" />
+      <item itemvalue="Application.ExperimentalMemCheck" />
+      <item itemvalue="Application.ExperimentalStart" />
+      <item itemvalue="Application.ExperimentalSubmit" />
+      <item itemvalue="Application.ExperimentalTest" />
+      <item itemvalue="Application.ExperimentalUpdate" />
+      <item itemvalue="Application.Nightly" />
+      <item itemvalue="Application.NightlyBuild" />
+      <item itemvalue="Application.NightlyConfigure" />
+      <item itemvalue="Application.NightlyCoverage" />
+      <item itemvalue="Application.NightlyMemCheck" />
+      <item itemvalue="Application.NightlyMemoryCheck" />
+      <item itemvalue="Application.NightlyStart" />
+      <item itemvalue="Application.NightlySubmit" />
+      <item itemvalue="Application.NightlyTest" />
+      <item itemvalue="Application.NightlyUpdate" />
+      <item itemvalue="Application.aisdiLinear" />
+      <item itemvalue="Application.aisdiLinearTests" />
+      <item itemvalue="Application.check" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21b1d4a5-2082-4682-8694-940d80bcdd69" name="Default" comment="" />
+      <created>1523286432903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523286432903</updated>
+      <workItem from="1523286438782" duration="6391000" />
+      <workItem from="1523355217907" duration="167000" />
+      <workItem from="1523481478909" duration="6006000" />
+      <workItem from="1523507921651" duration="2732000" />
+      <workItem from="1523511566050" duration="559000" />
+      <workItem from="1523512170627" duration="1363000" />
+      <workItem from="1523572040731" duration="1886000" />
+      <workItem from="1523735803975" duration="538000" />
+      <workItem from="1523738637083" duration="3235000" />
+      <workItem from="1523789044648" duration="6233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29110000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23665768" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32822084" />
+      <window_info anchor="bottom" id="CMake" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43251532" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997955" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests/VectorTests.cpp</url>
+          <line>494</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests/VectorTests.cpp</url>
+          <line>495</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests/VectorTests.cpp</url>
+          <line>497</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests/VectorTests.cpp</url>
+          <line>499</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests/VectorTests.cpp</url>
+          <line>500</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#61#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/VectorTests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11130">
+          <caret line="742" column="1" selection-start-line="742" selection-start-column="1" selection-end-line="742" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="e#61#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/VectorTests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11055">
+          <caret line="737" column="10" lean-forward="true" selection-start-line="737" selection-start-column="10" selection-end-line="737" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/LinkedListTests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10770">
+          <caret line="718" lean-forward="true" selection-start-line="718" selection-end-line="718" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/VectorTests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10950">
+          <caret line="730" column="36" lean-forward="true" selection-start-line="730" selection-start-column="36" selection-end-line="730" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/complex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/test/utils/callback.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/test/utils/basic_cstring/bcs_char_traits.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/test/utils/basic_cstring/basic_cstring.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/test/unit_test_suite_impl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="405" selection-start-line="405" selection-end-line="405" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/initializer_list">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/VectorTests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="552" column="4" selection-start-line="552" selection-start-column="4" selection-end-line="552" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+          <folding>
+            <element signature="e#61#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#529#551#0" expanded="true" />
+            <element signature="e#695#717#0" expanded="true" />
+            <element signature="e#866#888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/LinkedListTests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3878">
+          <caret line="551" column="33" selection-start-line="551" selection-start-column="33" selection-end-line="551" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Debug/CTestTestfile.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Release/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Release/CTestTestfile.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
